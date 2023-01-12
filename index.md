@@ -10,6 +10,6 @@ __Remotely Connecting__
 ![screenshot] (https://github.com/NirvekPanda/cse15l-lab-reports/blob/main/image2.png)
 
 __Trying Some Commands__
-> I tested various commands from the list but could not go to any of the specifc files becuase I was not able to connect to the server.
+> I tested various commands from the list but could not go to any of the specific files becuase I was not able to connect to the server. However, I still used a few commands such as ls, cd, and nano.
 
 ![screenshot] (https://github.com/NirvekPanda/cse15l-lab-reports/blob/main/image3.png)
