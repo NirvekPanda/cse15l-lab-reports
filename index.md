@@ -8,9 +8,9 @@ __Installing Visual Studio Code__
 __Remotely Connecting__ 
 > First I connected my VSC to bash so i could use ssh to connect to a lab computer from the terminal. Then I tried to logged into cs15lwi23ahe@ieng6.ucsd.edu but was unable to because my password was not working. To try and fix it I repeatedly tried to reset my password. I sucessfully reset my password but was still unlable to proceed.
 
-![screenshot](https://github.com/NirvekPanda/cse15l-lab-reports/blob/main/image2.png)
+![screenshot](image2.png)
 
 __Trying Some Commands__
 > I tested various commands from the list but could not go to any of the specific files becuase I was not able to connect to the server. However, I still used a few commands such as ls, cd, and nano.
 
-![screenshot](https://github.com/NirvekPanda/cse15l-lab-reports/blob/main/image3.png)
+![screenshot](image3.png)
